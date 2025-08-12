@@ -15,7 +15,7 @@ This app is perfect for anyone who prefers managing tasks quickly without leavin
 -  🗑 **Delete tasks** you no longer need.
 - 🕒 **Store creation timestamps** for every task.
 - 🏷 **Support tags or categories** to organize tasks.
-- 💾 **Persistent storage** in a `tasks.txt` file.
+- 💾 **Persistent storage** in a `tasks.json` file.
 
 
 
