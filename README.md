@@ -28,7 +28,7 @@ This app is perfect for anyone who prefers managing tasks quickly without leavin
 
 ## 📖 Example Commands
 
-add "Buy milk" -t Shopping -p High     # Add a task with tag and priority
+add "Buy milk"                         # Add a task with tag and priority
 list                                   # List all tasks with their indexes
 done 2                                 # Mark task #2 as done
 delete 3                               # Delete task #3
